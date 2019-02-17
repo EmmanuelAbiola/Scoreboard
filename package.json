@@ -6,8 +6,8 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "npm": "^6.8.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
